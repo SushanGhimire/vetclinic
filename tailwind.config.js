@@ -6,7 +6,7 @@ module.exports = {
         header: ["Bree Serif"],
       },
       colors: {
-        skyblue: "#34ebe2",
+        skyblue: "#00ccaa",
       },
     },
   },
