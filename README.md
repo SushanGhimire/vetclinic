@@ -2,6 +2,6 @@
 
 ## build form css framework "Tailwindcss"
 
-Required
+Required:
 -HTML
 -CSS Knowledge
